@@ -147,8 +147,8 @@
         margin-left:0 !important;
         margin-right:-55px;
         color:#dcdcdc !important;
-        border-color:transparent transparent #428BCA #428BCA !important;
-        background-color:#428BCA !important;
+        border-color: transparent transparent #d53c2a #d40e0e !important;
+    	background-color: #d40e0e !important;
     }
     #menusite .navbar-toggle:hover,
     #menusite .navbar-toggle:focus {
